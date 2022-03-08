@@ -1,6 +1,29 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: <p align="center"> Silambarasan Melapudi Kannappan </p>
+logo: /assets/img/001.JPG
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/silambarasan-kannappan/">LinkedIn</a> |
+  <a href="https://github.com/ksilamba">GitHub</a>
+  
+  <br>   
+  I'm working as Business Analyst and learning Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Experienced Information Technology Lead with a demonstrated history of working in the information technology and services industry. 
+  Senior Business Analyst skilled in Requirement Analysis, Business Analysis, Experienced in managing requirements from project inception through release.  
+  Worked for a large Commercial Lines Transformation Project from Inception through Release. 
+  Quality Assurance Lead with Professional experience in Service Virtualization, Test Suite Staging of Integration Services, Web Service Automation Testing, Data Transformation Validation, Real Time, Batch Integrations (Inbound / Outbound), Program Test Execution Approach Formulation, Test Execution Tracking, Sign-offs for Policy Center Implementations, State Rollouts. 
+  Strong consulting professional with a Bachelor of Engineering - BE focused in Electrical, Electronics and Communications Engineering from VelTech Engineering College.
+  ServiceVirtualization techniques
+  Test Suite Staging of Integration Services
+  WebService Automation Testing (SOA and Rest API) using SOAP UI & POSTMAN
+  Data Transformation Validation, Real-Time, Batch Integrations (Inbound / Outbound)
+  Program Test Execution Approach Formulation, Test Execution Tracking.
+  Sign-offs for Policy Center Implementations & State Rollouts.
+ 
+  Commercial Lines Insurance Products - Business Owners (BOP), Workers Compensation (WC), Business Auto (BA), General Liability (GL), Commercial Property (CP), Farm and Ranch (F&R) 
+
+  Personal Lines Insurance Products - Personal Auto (PAP) and Property (Renters, Homeowners, Dwelling).
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
